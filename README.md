@@ -2,14 +2,14 @@
 
 Name's Woofer, howdy do :3 
 
-- 🔭 I’m currently working on <a href="https://github.com/WooferTheWoof/wooferthewoof.github.io">Website</a>.
+- 🔭 I’m currently working on <a href="[https://github.com/WooferTheWoof/Flappy-Smoo]">Flappy Smoo</a>.
 - 📫 How to reach me:
   - Discord: <a href="https://discord.com/users/570661577041379358">wooferthywoof</a>
   - Twiiter: <a href="https://x.com/WooferThyWoof">WooferThyWoof</a>
  
 ## My discord status:
 
-<!-- old discod: [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/740965195496816721)](https://discord.com/users/740965195496816721)-->
+<!-- old discod: [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/740965195496816721)](https://discord.com/users/570661577041379358)-->
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/570661577041379358)](https://discord.com/users/570661577041379358)
 
 ## Languages I Use
