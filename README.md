@@ -2,9 +2,10 @@
 
 Name's Woofer, howdy do :3 
 
-- 🔭 I’m currently working on nothing X3
+- 🔭 I’m currently working on <a href="https://github.com/wooferthewoof/wooferthewoof.github.io">website!</a>.
 - 📫 How to reach me:
   - Email: wooferthewoof@gmail.com
+  - Discord: https://discordapp.com/users/570661577041379358
 
 ## Languages I Use
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
