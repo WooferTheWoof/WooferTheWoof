@@ -6,7 +6,7 @@ Name's Woofer, howdy do :3
 - 📫 How to reach me:
   - Email: wooferthewoof@gmail.com
   - Discord: https://discordapp.com/users/570661577041379358
-  - Twotter: https://x.com/TheWooferrr
+  - Twitter: https://x.com/TheWooferrr
 
 ## My discord status:
 
